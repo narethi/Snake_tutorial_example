@@ -1,0 +1,2 @@
+This is a snake game designed to teach people how to use pointers and basic rendering
+in openGL, in order to run the release freeglut3.8.1 or newer needs to be installed
